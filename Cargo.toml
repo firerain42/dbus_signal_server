@@ -1,0 +1,6 @@
+[package]
+name = "dbus_signal_server"
+version = "0.1.0"
+authors = ["firerain42 <firerain42@googlemail.com>"]
+
+[dependencies]

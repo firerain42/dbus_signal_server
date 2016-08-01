@@ -1,0 +1,4 @@
+[root]
+name = "dbus_signal_server"
+version = "0.1.0"
+
