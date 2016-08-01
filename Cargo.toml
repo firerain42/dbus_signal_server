@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["firerain42 <firerain42@googlemail.com>"]
 
 [dependencies]
+dbus = "0.3.4"
+toml = "0.2.0"
